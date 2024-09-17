@@ -1,2 +1,4 @@
 # Olist-ecommerce-dataset-analysis
-This repository features an analysis of the Olist eCommerce dataset, which includes comprehensive data on customer orders, product details, reviews, and payments from an eCommerce platform. The goal is to derive actionable insights to enhance business strategies and improve customer satisfaction.
+Introduction:
+The Olist eCommerce dataset is a collection of data from a Brazilian e-commerce company that connects small to medium-sized retailers with customers across the country.
+

@@ -127,3 +127,6 @@ The analysis was conducted using Python and key libraries such as Pandas for dat
 
 ### Conclusion
 ![image](https://github.com/user-attachments/assets/dd661db6-2a07-4635-9f4f-e89332491c5c)
+
+## DASHBOARD
+![image](https://github.com/user-attachments/assets/1fe7021d-7d66-42b7-95bf-d53a744d23a5)
